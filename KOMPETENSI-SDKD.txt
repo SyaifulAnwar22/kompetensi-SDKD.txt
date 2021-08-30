@@ -1,4 +1,4 @@
-kompetensi daring sinkron
-kompetensi daring asinkron
-gihub
-git
+Kompetensi daring sinkron
+- Line
+Kompetensi daring asinkron
+- Email
