@@ -2,3 +2,5 @@ Kompetensi daring sinkron
 - Line
 Kompetensi daring asinkron
 - Email
+github
+git
