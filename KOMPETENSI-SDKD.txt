@@ -1,0 +1,4 @@
+kompetensi daring sinkron
+kompetensi daring asinkron
+gihub
+git
